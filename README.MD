@@ -1,4 +1,4 @@
-# Ninja Facts App
+# Facts App
 ##### This Go application retrieves facts from the "API Ninjas" service, stores them in a MongoDB database, and provides an HTTP server to fetch and display these facts.
 
 ## Installation
